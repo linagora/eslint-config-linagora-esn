@@ -12,6 +12,11 @@ module.exports = function(grunt) {
         'Gruntfile.js',
         'lib/**/*.js'
       ]
+    },
+    release: {
+      options: {
+        tagName: 'v<%= version %>'
+      }
     }
   });
 
