@@ -1,0 +1,29 @@
+{
+  "name": "eslint-config-linagora-esn",
+  "version": "1.0.0",
+  "description": "The ESLint configs for OpenPaas projects",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Linagora folks <dev@linagora.com>",
+  "license": "AGPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://ci.open-paas.org/stash/scm/or/eslint-config-linagora-esn.git"
+  },
+  "peerDependencies": {
+    "eslint-config-airbnb-base": "^8"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^8.0.0",
+    "eslint-plugin-import": "^1.16.0",
+    "grunt": "0.4.5",
+    "grunt-eslint": "^19.0.0",
+    "load-grunt-tasks": "^3.5.2"
+  }
+}
