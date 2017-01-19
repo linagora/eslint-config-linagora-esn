@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-linagora-esn",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "The ESLint configs for OpenPaas projects",
   "main": "lib/index.js",
   "scripts": {
