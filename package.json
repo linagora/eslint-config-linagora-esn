@@ -14,7 +14,7 @@
   "license": "AGPL-3.0",
   "repository": {
     "type": "git",
-    "url": "https://ci.open-paas.org/stash/scm/or/eslint-config-linagora-esn.git"
+    "url": "https://ci.linagora.com/linagora/lgs/openpaas/eslint-config-linagora-esn.git"
   },
   "peerDependencies": {
     "eslint-config-airbnb-base": "^8"
