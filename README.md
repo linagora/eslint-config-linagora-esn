@@ -10,7 +10,7 @@
 "eslint": "3.6.0",
 "eslint-config-airbnb-base": "8.0.0",
 "eslint-plugin-import": "1.16.0",
-"eslint-config-linagora-esn": "1.0.0"
+"eslint-config-linagora-esn": "1.1.1"
 ```
 
 - Add to your `.eslintrc`
