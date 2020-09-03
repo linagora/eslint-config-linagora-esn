@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-linagora-esn",
+  "name": "@linagora/eslint-config-linagora-esn",
   "version": "2.0.0",
   "description": "The ESLint configs for OpenPaas projects",
   "main": "lib/index.js",

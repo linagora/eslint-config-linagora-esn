@@ -1,4 +1,4 @@
-# eslint-config-linagora-esn
+# @linagora/eslint-config-linagora-esn
 
 > The ESLint configs for OpenPaas projects
 
