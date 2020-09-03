@@ -4,16 +4,13 @@
 
 ## Usage
 
-- Add to your `package.json`
+- Install these dependencies:
 
-```JSON
-"eslint": "3.6.0",
-"eslint-config-airbnb-base": "8.0.0",
-"eslint-plugin-import": "1.16.0",
-"eslint-config-linagora-esn": "1.1.1"
+```sh
+npm install eslint eslint-config-airbnb-base eslint-plugin-import --save-dev
 ```
 
-- Add to your `.eslintrc`
+- Add to your `.eslintrc.json`
 
 ```JSON
 {
